@@ -8,5 +8,5 @@ Questo è un progetto per il corso di "Visualizzazione Scientifica" nel quale ci
 - Infine poniamo attenzione alle vittime per comprendere se età,genere,istruzione possono essere predittori principali di vulnerabilità a questo tipo di attacco
 
 # Collaboratori
-Edoardo Paradiso 63419A
-Sara Zamboni 65980A
+- Edoardo Paradiso 63419A
+- Sara Zamboni 65980A
