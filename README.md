@@ -8,7 +8,7 @@ Questo è un progetto per il corso di "Visualizzazione Scientifica" nel quale ci
 - Successivamente abbiamo deciso di osservare le spese causate alle aziende, calcolate tenendo in considerazione Rilevamento ed escalation, notifica, risposta post-breach e affari persi.
 - Infine poniamo attenzione alle vittime per comprendere se età, genere e istruzione possano essere predittori principali di vulnerabilità a questo tipo di attacco.
 
-NB: I file.xlsx sono stati caricati sul drive personale per eseguire comodamente i codici python con Colab, è quindi necessario caricare sul proprio drive i dataset (qui) per permettere il funzionamento del codice.
+NB: I file.xlsx sono stati caricati sul drive personale per eseguire comodamente i codici python con Colab, è quindi necessario caricare sul proprio drive i dataset ([qui](https://github.com/nightmare0133/ScientificVisualizationProject/tree/b496cae9fa1a6a773de65504ef0862f0ca69609a/Datasets)) per permettere il funzionamento del codice.
 
 # Collaboratori
 - Edoardo Paradiso 63419A
