@@ -1,4 +1,5 @@
 # Attacchi di Phishing: Frequenze, Vittime e Spese
+# (Work in progress)
 Progetto di Visualizzazione Scientifica sul Phishing
 Questo è un progetto per il corso di "Visualizzazione Scientifica" nel quale ci occupiamo di visualizzare ed analizzare dati relativi agli attacchi informatici di Phishing:
 
