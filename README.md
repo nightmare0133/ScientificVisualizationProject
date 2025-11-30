@@ -10,6 +10,9 @@ Questo è un progetto per il corso di "Visualizzazione Scientifica" nel quale ci
 
 NB: I file.xlsx sono stati caricati sul drive personale per eseguire comodamente i codici python con Colab, è quindi necessario caricare sul proprio drive i dataset ([Datasets](https://github.com/nightmare0133/ScientificVisualizationProject/tree/b496cae9fa1a6a773de65504ef0862f0ca69609a/Datasets)) per permettere il funzionamento del codice presente in [Notebooks](https://github.com/nightmare0133/ScientificVisualizationProject/tree/5f4cc2c7798fea95cd17878b3f4d84590fc3b3b7/Notebooks).
 
+# Presentazione
+La presentazione è stata fatta con Canva, è possibile trovarla [qui](https://www.canva.com/design/DAG2nR8M5Cc/SH9pP7qOe0QV4DrSXGbZ7g/view?utm_content=DAG2nR8M5Cc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1ac2e9ca3).
+
 # Collaboratori
 - Edoardo Paradiso 63419A
 - Sara Zamboni 65980A
